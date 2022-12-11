@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/guote-pr-with-router/static/css/main.2b7fe1e4.css",
+    "main.js": "/guote-pr-with-router/static/js/main.ab0d5751.js",
+    "static/css/640.e59f36fc.chunk.css": "/guote-pr-with-router/static/css/640.e59f36fc.chunk.css",
+    "static/js/640.c33dd3b8.chunk.js": "/guote-pr-with-router/static/js/640.c33dd3b8.chunk.js",
+    "static/css/749.26710b7d.chunk.css": "/guote-pr-with-router/static/css/749.26710b7d.chunk.css",
+    "static/js/749.44065c31.chunk.js": "/guote-pr-with-router/static/js/749.44065c31.chunk.js",
+    "static/css/455.2133605b.chunk.css": "/guote-pr-with-router/static/css/455.2133605b.chunk.css",
+    "static/js/455.10352c59.chunk.js": "/guote-pr-with-router/static/js/455.10352c59.chunk.js",
+    "static/js/283.3371945e.chunk.js": "/guote-pr-with-router/static/js/283.3371945e.chunk.js",
+    "index.html": "/guote-pr-with-router/index.html",
+    "main.2b7fe1e4.css.map": "/guote-pr-with-router/static/css/main.2b7fe1e4.css.map",
+    "main.ab0d5751.js.map": "/guote-pr-with-router/static/js/main.ab0d5751.js.map",
+    "640.e59f36fc.chunk.css.map": "/guote-pr-with-router/static/css/640.e59f36fc.chunk.css.map",
+    "640.c33dd3b8.chunk.js.map": "/guote-pr-with-router/static/js/640.c33dd3b8.chunk.js.map",
+    "749.26710b7d.chunk.css.map": "/guote-pr-with-router/static/css/749.26710b7d.chunk.css.map",
+    "749.44065c31.chunk.js.map": "/guote-pr-with-router/static/js/749.44065c31.chunk.js.map",
+    "455.2133605b.chunk.css.map": "/guote-pr-with-router/static/css/455.2133605b.chunk.css.map",
+    "455.10352c59.chunk.js.map": "/guote-pr-with-router/static/js/455.10352c59.chunk.js.map",
+    "283.3371945e.chunk.js.map": "/guote-pr-with-router/static/js/283.3371945e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b7fe1e4.css",
+    "static/js/main.ab0d5751.js"
+  ]
+}
